@@ -10,7 +10,7 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Batuhan # add your name
-author-img: # add your photo
+author-img: profile-photo.png # add your photo
 about-author: Computer Engineering graduate with diverse industry experience, currently working as a Full Stack Developer. Passionate about technology and constantly staying up-to-date with the latest developments in the field. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
